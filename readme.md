@@ -5,3 +5,4 @@ Aluno: Paulo Sakamoto
 * [Atividade 03](https://github.com/paulosakamoto/lp1-atividade-03)
 * [Atividade 04](https://github.com/paulosakamoto/lp1-atividade-04)
 * [Atividade 05](https://github.com/paulosakamoto/lp1-atividade-05)
+* [Atividade 06](https://github.com/paulosakamoto/lp1-atividade-06)
